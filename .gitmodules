@@ -4,3 +4,9 @@
 [submodule "theme/default"]
 	path = theme/default
 	url = https://github.com/suapapa/go_present-theme-default
+[submodule "slide/you_can_read_go_code"]
+	path = slide/you_can_read_go_code
+	url = https://github.com/suapapa/slide_you_can_read_go_code
+[submodule "slide/harder_way_to_arduino_with_python"]
+	path = slide/harder_way_to_arduino_with_python
+	url = https://github.com/suapapa/slide_harder_way_to_arduino_with_python
