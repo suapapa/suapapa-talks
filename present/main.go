@@ -39,7 +39,7 @@ func main() {
 			return
 		}
 
-		launchBrowser("http://127.0.0.1:3999/slide/harder_way_to_arduino_with_python/harder_way_to_arduino_with_python.slide")
+		launchBrowser("http://127.0.0.1:3999/slide/")
 	}()
 
 	if !strings.HasPrefix(*httpListen, "127.0.0.1") &&
