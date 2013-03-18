@@ -1,0 +1,6 @@
+[submodule "present/go_present"]
+	path = present/go_present
+	url = https://github.com/suapapa/go_present
+[submodule "theme/default"]
+	path = theme/default
+	url = https://github.com/suapapa/go_present-theme-default
